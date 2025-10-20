@@ -2,4 +2,5 @@
 *.pkl
 *.joblib
 *.sav
+*.json
 modelos/
