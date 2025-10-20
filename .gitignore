@@ -1,1 +1,5 @@
-.pkl
+# Ignorar archivos grandes
+*.pkl
+*.joblib
+*.sav
+modelos/
